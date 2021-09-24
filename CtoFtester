@@ -1,0 +1,16 @@
+public class CtoFtester{
+public static void main(String[] args) {
+
+public double celsiusToFarenheit(double x){
+
+return 1.8*x + 32;
+
+}
+
+public double farenheitToCelsius(double y){
+
+return (5/9)*(x - 32);
+
+}
+}
+}
